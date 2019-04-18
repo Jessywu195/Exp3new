@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exp3new</string>
+    <string name="txt">点击了采用ButterKnife的监听器</string>
+    <string name="btn1">Activity作为监听器</string>
+    <string name="btn2">匿名内部类</string>
+    <string name="btn3">绑定到标签</string>
+    <string name="btn4">内部类</string>
+    <string name="btn5">外部类</string>
+    <string name="btn6">ButterKnife绑定</string>
+    <string name="btn7">系统信息</string>
+    <string name="btn8">模拟进度条</string>
+    <string name="txt2">任务完成的进度</string>
+</resources>
